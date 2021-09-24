@@ -90,3 +90,7 @@ footer {
   width: 100%;
   text-align: center;
 }
+
+.github {
+  text-decoration: none;
+}
